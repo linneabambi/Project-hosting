@@ -1,0 +1,29 @@
+.links {
+  display: flex;
+  justify-content: space-evenly;
+}
+h1,
+p {
+  text-align: center;
+
+  padding: 40px;
+}
+a {
+  border: 1px solid black;
+  padding: 10px;
+  text-decoration: none;
+  color: grey;
+  background-color: bisque;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 4px;
+  padding: 30px;
+}
+#contact-link {
+  display: block;
+  margin: 0 auto;
+  max-width: 300px;
+  text-align: center;
+}
