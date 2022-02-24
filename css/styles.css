@@ -6,7 +6,8 @@ body {
   justify-content: space-evenly;
 }
 h1,
-p {
+p,
+h2 {
   text-align: center;
 
   padding: 40px;
